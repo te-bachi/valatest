@@ -1,0 +1,5 @@
+
+SUBDIRS = \
+    vala \
+    src
+
